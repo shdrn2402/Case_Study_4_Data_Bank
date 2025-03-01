@@ -17,3 +17,6 @@
         </td>
     </tr>
 </table>
+
+
+**Note:** This repository contains visualizations based on SQL case studies. Since the projects are educational and access to a live database is not available, all resulting tables were manually saved as CSV files. In a real-world scenario, direct database access could be achieved using appropriate Python libraries such as `SQLAlchemy` or `psycopg`.
